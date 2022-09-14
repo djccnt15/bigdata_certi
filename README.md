@@ -4,4 +4,5 @@
 
 자세한 설명은 [블로그](https://djccnt15.github.io/) 확인
 
-- [[빅분기] 실기 대비 01](https://djccnt15.github.io/dataanalysis/bigdata_certi_01/)
+- [빅데이터 분석기사 실기 예제 풀이](https://github.com/djccnt15/bigdata_certi/blob/main/example_01.ipynb)([블로그](https://djccnt15.github.io/dataanalysis/bigdata_certi_01/))
+- [빅데이터 분석기사 기출 2회 풀이](https://github.com/djccnt15/bigdata_certi/blob/main/example_02.ipynb)([블로그](https://djccnt15.github.io/dataanalysis/bigdata_certi_03/))

@@ -1,6 +1,3 @@
-# data
-data/
-
 # environments
 .ipynb_checkpoints/
 etc/
@@ -16,4 +13,4 @@ pyvenv.cfg
 # scratch
 scratch.py
 test.py
-answer.csv
+result.csv
